@@ -1,8 +1,5 @@
-Sure! Here is the **final clean version of your `README.md` for Task 1** — with **no emojis**, fully markdown-formatted, and ready to use on GitHub:
 
----
 
-````markdown
 # Task 1 – Secure User Authentication System
 
 ## Task Description
@@ -45,7 +42,16 @@ It follows secure practices like password hashing, token validation, and clean U
 - Node.js and npm
 - MongoDB (local or MongoDB Atlas)
 
-````
+
+### Screen shots
+![image](https://github.com/user-attachments/assets/c8f78666-aee8-460a-b7a4-fe86ca34a139)
+![image](https://github.com/user-attachments/assets/274e0043-0058-462f-955c-a2e145198db2)
+![image](https://github.com/user-attachments/assets/65a4f345-3965-4ae7-9fca-c6dbc4acfc24)
+![image](https://github.com/user-attachments/assets/808d59f9-9e6d-4465-b319-1504b2d87865)
+![image](https://github.com/user-attachments/assets/cb661858-5191-4d6c-a4c5-d10d7bf64b9f)
+
+
+
 
 
 ## License
