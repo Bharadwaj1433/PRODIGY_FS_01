@@ -14,6 +14,10 @@ The system enables users to:
 
 It follows secure practices like password hashing, token validation, and clean UI design using Tailwind CSS.
 
+## 🔗 Live Project
+
+🌐 **Project Website:** [Click Here to Visit](https://prodigy-fs-01-amber.vercel.app/)  
+
 ## Features
 
 - User Registration with hashed passwords (bcrypt)
